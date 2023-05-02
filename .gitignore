@@ -1,2 +1,4 @@
 .env
 .idea/
+gweather.log
+nohup.out
