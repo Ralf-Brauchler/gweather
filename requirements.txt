@@ -6,8 +6,6 @@ fonttools==4.37.4
 idna==3.4
 influxdb-client==1.33.0
 kiwisolver==1.4.4
-matplotlib==3.6.1
-numpy==1.23.4
 packaging==21.3
 Pillow==9.2.0
 pyparsing==3.0.9
